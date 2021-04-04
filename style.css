@@ -1,0 +1,83 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R7001441fe86d3807d6bbbf024c335a57?rik=EkBYtdEYSIVgFg&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2014%2f01%2fbeautiful-wallpaper-39.jpg&ehk=dUX8Qlz0ClF18r8HQj8I6vVmKHhdPGv2kxUu3fCR15c%3d&risl=&pid=ImgRaw");
+ 
+
+   /* background: #C6FFDD;  fallback for old browsers
+   background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  Chrome 10-25, Safari 5.1-6
+   background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background-color: darkblue;
+height: 210px;
+width: 320px;  
+
+
+
+
+
+}
+.btn{
+    color:black;
+    width: 10ex;
+    height: 3em;
+   
+
+ 
+    /* background: #12c2e9;  fallback for old browsers
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  Chrome 10-25, Safari 5.1-6
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.exbtn{
+    color:black;
+    width: 10ex;
+    height: 3em;
+
+
+    /* background: #12c2e9;  fallback for old browsers
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+/* background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ */
+
+}
+
+
+button{
+
+    color:black;
+    /* width: 10ex;
+    height: 3em; */
+margin: 0.1ex;
+
+
+    background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#result{
+    width: 313px;
+    height: 1.5em;
+    text-align: center;
+    color: rgb(68, 0, 255);
+   
+    background: #1E9600;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FF0000, #FFF200, #1E9600);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF0000, #FFF200, #1E9600); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+
+}
+h1{
+    font-size: 2em;
+    font-style: inherit;
+    text-shadow: 5px 5px 10px rgb(67, 2, 247);
+}
+.main{
+    border: 2px solid black;
+    margin: 0ex;
+    background-image: url("https://th.bing.com/th/id/R7001441fe86d3807d6bbbf024c335a57?rik=EkBYtdEYSIVgFg&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2014%2f01%2fbeautiful-wallpaper-39.jpg&ehk=dUX8Qlz0ClF18r8HQj8I6vVmKHhdPGv2kxUu3fCR15c%3d&risl=&pid=ImgRaw");
+
+background: #C6FFDD;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
